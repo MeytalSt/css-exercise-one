@@ -37,6 +37,7 @@ h3 {
   width: 100%;
 }
 
+/*change color of last three elements to pink*/
 .element-last-three {
   background-color: pink;
 }
